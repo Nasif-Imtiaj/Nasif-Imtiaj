@@ -33,5 +33,15 @@ I am a software engineer focused on building highly optimized cross-platform mob
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nasif-imtiaj/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nasifimtiaj.16@gmail.com)
+<a href="https://www.linkedin.com/in/nasif-imtiaj/" target="_blank">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="40" height="40" style="margin-right: 10px;" />
+</a>
+<a href="mailto:nasifimtiaj.16@gmail.com" target="_blank">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="40" height="40" />
+</a>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nasif-Imtiaj&color=0077B5&style=flat-square&label=PROFILE+VIEWS" alt="Nasif Imtiaj Profile Views" />
+</p>
