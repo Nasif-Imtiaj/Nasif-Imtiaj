@@ -33,8 +33,8 @@ I am a software engineer focused on building highly optimized cross-platform mob
 ---
 
 ## 📫 Connect with Me
-<a href="https://www.linkedin.com/in/nasif-imtiaj/" target="_blank"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/linkedin-icon.svg" alt="LinkedIn" width="40" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:nasifimtiaj.16@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/gmail.svg" alt="Gmail" width="40" height="40" /></a>
+<a href="https://www.linkedin.com/in/nasif-imtiaj/" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="30" height="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:nasifimtiaj.16@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="30" height="30" /></a>
 
 ---
 
