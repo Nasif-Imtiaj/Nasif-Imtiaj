@@ -1,6 +1,6 @@
 # Hi, I'm Nasif Imtiaj! 👋
 
-### Lead Software Engineer & Mobile Systems Developer
+### Software Engineer
 I am a software engineer focused on building highly optimized cross-platform mobile applications, low-level media processing engines, and clean user experiences. I bridge the gap between complex mathematical logic and practical, production-ready software engineering.
 
 ---
